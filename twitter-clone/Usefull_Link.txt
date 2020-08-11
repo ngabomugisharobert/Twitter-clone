@@ -1,0 +1,7 @@
+>>>>>>>>>>>>>>>>>>>>for watch error<<<<<<<<<<<<<<<<<<<<<<<<
+
+https://github.com/guard/listen/wiki/Increasing-the-amount-of-inotify-watchers#the-technical-details
+
+>>>>>>>>>>>>>>>>>>>>for npm start error<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+https://npm.community/t/ubuntu-19-04-error-enospc-system-limit-for-number-of-file-watchers-reached/10716/5
