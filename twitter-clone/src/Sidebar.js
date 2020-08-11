@@ -20,7 +20,7 @@ function Sidebar() {
 
         {/* twitter icon */}
 
-        <TwitterIcon />
+        <TwitterIcon className="sidebar__tweetIcon"/>
 
 
         {/* sidebaroptions */}
