@@ -16,12 +16,13 @@
     padding: 20px;
 }
 
-.sidebarOption > h4{
+.sidebarOption > h5{
     font-weight: 800;
-    font-size: 20px;
+    font-size: 18px;
     margin-right: 20px;
 }
 
 .sidebarOption--acvtive{
     color: var(--twitter-color);
+    font-weight: 800;
 }

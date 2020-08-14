@@ -3,6 +3,7 @@
   align-items: flex-start;
   border-bottom: 1px solid var(--twitter-background);
   padding-bottom: 10px;
+  padding-right: 10px;
 }
 
 .post__body {
@@ -10,8 +11,13 @@
   padding: 10px;
 }
 
+.post:hover {
+  background-color:var(--twitter-background);
+}
+
 .post__body > img {
   border-radius: 20px;
+  max-width: 500px;
 }
 
 .post__footer {
