@@ -26,7 +26,7 @@ function Feed() {
         {/* TweetBox */}
         <TweetBox/>
 
-
+        <FlipMove>
         {/* post */} 
         {posts.map((post) => (
           <Post
@@ -43,7 +43,7 @@ function Feed() {
         {/* post */}
         {/* post */}
         {/* post */}
-
+        </FlipMove>
         </div>
     )
 }
