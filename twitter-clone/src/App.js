@@ -1,10 +1,19 @@
 import React from 'react';
 import './App.css';
+import Sidebar from './Sidebar';
+import Feed from './Feed';
+import Widgets from './Widgets'
 
 function App() {
   return (
-    <div className="App">
-      <h1>twitter clone application</h1>
+    <div className="app">
+
+{/* side bar */}
+<Sidebar/>
+{/* feed  */}
+<Feed/>
+{/* widgets */}
+<Widgets/>
     </div>
   );
 }
